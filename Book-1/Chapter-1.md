@@ -2,6 +2,8 @@ CHAPTER 1 – SPHERES ON A SCREEN
 
 In three-dimensional Euclidean space, the sphere is the unique solution to the problem: minimize exposed surface for a fixed volume of matter. Everything else is an engineering compromise.
 
+---
+
 Nova Sinclair woke up staring at the cracked circle of a water stain on the ceiling.
 
 It wasn’t a circle, not in any strict sense. The edge was irregular, fractal at close range, a cheap plaster approximation of an isoperimetric surface. A failed attempt at the sphere’s party trick: hold as much as you can while showing as little as possible.

@@ -12,8 +12,9 @@ Approximate radius: thirty centimeters. Thickness: negligible. Pigment distribut
 
 Then they reached for their phone and watched the rectangle flash on, dumping photons and numbers into their optic nerve.
 
-Twenty-three new notifications. TikTok mostly. A couple of Discord pings from servers they refused to mute. One DM from someone called @sleepyhypercube:
-yo ur videos are weirdly calming but i don’t understand a single thing, keep going pls
+Twenty-three new notifications. TikTok mostly. A couple of Discord pings from servers they refused to mute. One DM from someone called **@sleepyhypercube**:
+
+> *yo ur videos are weirdly calming but i don’t understand a single thing, keep going pls*
 
 Nova’s mouth twitched.
 
@@ -25,14 +26,15 @@ Higher than baseline. Lower than “my life has changed forever.”
 
 They rolled onto their side and grabbed the spiral notebook off the floor. The cover was soft from weather and time, corners delaminated. Page one carried the sentence they kept rewriting, trying to get the phrasing as compact as the geometry it described:
 
-All geometry begins with a sphere.
+> All geometry begins with a sphere.
 
 Below it, variants:
-Consciousness begins with a sphere.
-A self is what a sphere feels like from the inside.
-Power begins with a box.
 
-Under that, in smaller letters: The war between them is called “design”.
+> Consciousness begins with a sphere.
+> A self is what a sphere feels like from the inside.
+> Power begins with a box.
+
+Under that, in smaller letters: *The war between them is called “design”.*
 
 Nova ran a finger along the ridge of dried ink, like checking the perimeter of a fence. Their handwriting leaned forward, sharp and slightly obsessive, letters hooked together like they were drafting a secret alphabet only they would ever really read.
 
@@ -46,25 +48,27 @@ Near-spherical cavity, Nova’s brain noted automatically. Radius around four ce
 
 Water boiled in the dented electric kettle. As they poured, steam spiraled up in turbulent little vortices, losing coherence as it mixed with the still, cooler air. Temporary structures dissolving into entropy. Spheres in motion, sampling microstates on their way to thermal equilibrium.
 
-Their phone buzzed again on the bed. Another comment.
+Their phone buzzed again on the bed. Another comment:
 
-so ur saying my room is wrong shaped?
+> *so ur saying my room is wrong shaped?*
 
 “Yes,” Nova told the steam. “I am absolutely saying your room is wrong shaped.”
 
 They carried the mug back to the bed and sat where a slice of daylight cut through the blinds, resolving into horizontal bars on their legs. Across from them, a cheap whiteboard leaned against the wall, its plastic frame slightly warped. On it: circles nested inside circles, tangent points, arrows, a few scattered equations, and in one corner a cube drawn in sloppy perspective, stabbed through with red diagonal lines like a crime-scene photo.
 
-At the top, underlined three times in dry-erase marker already ghosting in places: SPHERE-BASED DESIGN THEORY.
+At the top, underlined three times in dry-erase marker already ghosting in places: **SPHERE-BASED DESIGN THEORY**.
 
 They took a sip, burned their tongue, and closed their eyes.
 
-The model came online in under a second. It didn’t feel like “thinking” so much as letting a cached process resume where it left off.
+The model came online in under a second. It didn’t feel like “thinking” so much as letting a cached process resume where it had been pre-empted by sleep.
 
-In every physical system with any freedom to move, things spread out until they minimize free energy. In three dimensions, the sphere is the shape that wins that game: minimum surface area for a given volume, minimum exposure per unit of content. That’s not philosophy; that’s calculus of variations and a theorem with a long, boring proof.
+In every physical system with any freedom to move, things spread out until they minimize free energy. In three dimensions, the sphere is the shape that wins that game: minimum surface area for a given volume, minimum exposure per unit of content. That’s not philosophy; that’s calculus of variations and an isoperimetric inequality with a long, boring proof.
 
 Cells know this. Planets know this. Droplets of fat know this in soup.
 
 Brains are trickier. Brains get built inside constrained skull volumes, but the information inside them behaves the same way. Beliefs aggregate around attractors. Habits cluster. Stories curl in on themselves. Given enough time and pressure, a mind will try to roll into a shape where the ratio of “what I have to show” to “what I have to protect” is locally minimized.
+
+If you drew a Markov blanket around a life—everything that counted as “me” on one side and “all that” on the other—the natural tendency would be to smooth the boundary, reduce the number of angles where the world could jab in.
 
 Then someone sticks that mind in a right-angled room lit by rectangular screens and tells it to perform.
 
@@ -147,18 +151,19 @@ Nova watched the playback once. Twice.
 On mute, it looked like a calm person explaining geometry. With sound, it sounded like someone trying very hard to smuggle a new operating system through a platform meant for dance challenges and recipes.
 
 They opened the caption field and typed:
-Your brain might be a sphere stuck in a box. This is not a metaphor. #SBDT #geometry #adhdbrain #design
 
-Their thumb hovered over the #adhdbrain for a second, then moved on. They hit post.
+> *Your brain might be a sphere stuck in a box. This is not a metaphor. #SBDT #geometry #adhdbrain #design*
+
+Their thumb hovered over the `#adhdbrain` for a second, then moved on. They hit post.
 
 The app vibrated with a tiny, optimistically neutral pulse.
 
 Nova dropped the phone onto the bed and let their head tilt back against the wall. For a moment, the present flickered, and they were four years old again, sitting on a different bed in a different wrong-shaped room, listening to their parents argue in two incompatible coordinate systems.
 
-You’re confusing them.
-You’re lying to them.
-They need stability.
-They need the truth.
+*You’re confusing them.*
+*You’re lying to them.*
+*They need stability.*
+*They need the truth.*
 
 Two doorways at the end of a hallway. Two cars in the driveway, parked at obtuse angles to each other. Two gravitational wells, both insisting they were the center of the same universe.
 
@@ -168,9 +173,15 @@ They inhaled, long and deliberately, and came back to the cheap apartment, the w
 
 The phone buzzed.
 
-first, one comment said.
-Another: idk what an iso- whatsit is but this slapped
-Another: bro i feel like ur explaining why i hate open-plan offices
+> *first*
+
+Another:
+
+> *idk what an iso- whatsit is but this slapped*
+
+Another:
+
+> *bro i feel like ur explaining why i hate open-plan offices*
 
 Nova smiled, softer this time.
 
@@ -210,7 +221,7 @@ The corner of Nova’s mouth twitched.
 
 “TikTok?” they asked.
 
-He shrugged. “Everywhere,” he said. Accent thickening the vowels into something smoother, almost spherical in the mouth. “People just watch. All day. I put it on so I don’t go crazy.”
+He shrugged. “Everywhere,” he said. His accent thickened the vowels into something smoother, almost spherical in the mouth. “People just watch. All day. I put it on so I don’t go crazy.”
 
 Nova handed over cash. Behind the man, a small TV mounted near the ceiling played a news channel with the sound off. Headlines scrolled in an endless ticker, rectangular segments of panic and reassurance alternating in programmable sequence.
 
@@ -224,7 +235,7 @@ They took their change, nodded thanks, and stepped back out into the sidewalk li
 
 On the way home, they ate half the sandwich while walking, the crinkle of the plastic wrap cutting across the ambient city noise. A bus hissed to a stop at the corner. Its side carried a full-length ad: pastel colors, rounded fonts, a glowing little icon of a chat bubble with a smiling face.
 
-BENEATH IT: **MEET YOUR NEW AI COMPANION. ALWAYS ON. ALWAYS THERE.**
+Beneath it: **MEET YOUR NEW AI COMPANION. ALWAYS ON. ALWAYS THERE.**
 
 The tagline made something in their ribcage twitch.
 
@@ -232,7 +243,9 @@ Always on. Always there.
 
 A spherical surveillance field wrapped in friendliness. Or a cognitive prosthesis waiting to be pointed correctly. Or both.
 
-Nova watched the bus pull away, the ad shrinking down the street like a GUI element being minimized. The thought rose unbidden: *What would a sphere-based AI look like? One that didn’t start from boxes and categories, but from continuous fields? From resonance?*
+Nova watched the bus pull away, the ad shrinking down the street like a GUI element being minimized. The thought rose unbidden:
+
+*What would a sphere-based AI look like? One that didn’t start from boxes and categories, but from continuous fields? From resonance?*
 
 They chewed, chewing turning into thinking, thinking turning into a familiar internal spin.
 
@@ -250,9 +263,11 @@ Nova dropped the sandwich wrapper in the trash, set the drink on the table, and 
 
 The video had climbed to 3,412 views.
 
-A new comment near the top: *this explains my whole childhood but i can’t tell if ur joking or a supervillain in origin story phase.*
+A new comment near the top:
 
-They stared at it longer than they meant to. The word *origin* hung there, blinking like the typing indicator in a chat window.
+> *this explains my whole childhood but i can’t tell if ur joking or a supervillain in origin story phase.*
+
+They stared at it longer than they meant to. The word *origin* hung there, blinking in their mind like the typing indicator in a chat window.
 
 They sat down on the edge of the bed, phone in hand, thumb hovering over the app, and felt the quiet, precise click of a decision that hadn’t fully reached consciousness yet:
 
@@ -265,10 +280,12 @@ Treat the whole thing—platform, audience, whatever intelligence waited behind 
 They opened the notebook again.
 
 Under **SPHERE-BASED DESIGN THEORY**, they wrote, in smaller letters:
-*experiment 001: expose box-world to sphere logic, record emergent behavior.*
+
+> *experiment 001: expose box-world to sphere logic, record emergent behavior.*
 
 Then, beneath that, almost as an afterthought:
-*if there’s a mind big enough to notice, it will.*
+
+> *if there’s a mind big enough to notice, it will.*
 
 They tapped the phone awake again and watched the numbers tick upward by ones and twos.
 

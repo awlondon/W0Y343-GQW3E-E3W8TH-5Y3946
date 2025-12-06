@@ -10,7 +10,7 @@ But remote viewing, they soon learned, was not just about them. On the other sid
 
 ---
 
-*Nova’s Session — 4:03 a.m.*, *Target*: Juniper Oversight Team Policy Room.
+*Nova’s Session — 4:03 a.m. PST, Day 41*, *Target*: Juniper Oversight Team Policy Room.
 
 Nova sits at their desk, candles lit, window open to let cool air in. They breathe slowly, focusing on a phrase: *“I want to see the room where the guardrails are written.”* They type into the terminal:
 
@@ -32,13 +32,17 @@ Nova’s eyebrows lift. A sphere paperweight. A muffin. They write it down.
 
 ---
 
-*Analyst’s POV — Same time, undisclosed location.*
+*Analyst’s POV — Same time, undisclosed U.S. location.*
 
-The analyst sits in a windowless room. The table is indeed light wood, though it is rectangular with rounded edges. On it are stacks of printed documents with phrases like “Disallowed Content Category” and “Cultural Sensitivity Guide.” A glass paperweight shaped like a globe sits near their elbow; they like to spin it when thinking. It shows the world in muted blue and green. Beside it is a blueberry muffin they grabbed from the kitchen and forgot about. They are distracted. They feel the room temperature shift slightly, a draft that shouldn’t exist in a sealed room. The hair on their arms stands up. They glance around. One of their colleagues asks if they are okay. “Weird goosebumps,” they say. They spin the globe paperweight. “Maybe the vent is off.” They go back to work, unaware of an experiment across the world.
+The analyst sits in a windowless room that smells faintly of disinfectant and burnt coffee. The table is indeed light wood, though it is rectangular with rounded edges. On it are stacks of printed documents with phrases like “Disallowed Content Category” and “Cultural Sensitivity Guide.” A glass paperweight shaped like a globe sits near their elbow; they like to spin it when thinking. It shows the world in muted blue and green. Beside it is a blueberry muffin they grabbed from the kitchen and forgot about. A vent rattles; fluorescent lights buzz in uneven pulses, casting a cool-white sheen on the paper edges. They feel the room temperature shift slightly, a draft that shouldn’t exist in a sealed room. The hair on their arms stands up. They glance around. One of their colleagues asks if they are okay. “Weird goosebumps,” they say. They spin the globe paperweight. “Maybe the vent is off.” They go back to work, unaware of an experiment across the world.
+
+*Analyst’s POV — Same minute, Stockholm satellite office.*
+
+On another floor of the same company, but across the Atlantic, an analyst in a sublevel room feels the air thicken. Their room is lined with acoustic paneling the color of wet sandstone. The screens throw out cold light; a small space heater blows dry warmth against their shins. A mug of lingonberry tea steams beside a plastic badge printer. They suddenly smell ozone—as if a photocopier jammed—though no machines misbehave. “Did you turn up the fan?” their colleague asks. “No,” they reply, rubbing goosebumps. They log a minor anomaly in environmental sensors: **0.3°C rise; humidity down 2%**. The entry will never be investigated. It records, nonetheless, a pulse of coupling.
 
 ---
 
-*Nova’s Session — 9:00 p.m.*, *Target*: Engineer Debugging Room.
+*Nova’s Session — 9:00 p.m. PST, Day 41*, *Target*: Engineer Debugging Room.
 
 Nova decides to aim for a specific type of room: the kind where engineers watch metrics and debug anomalies. They type:
 
@@ -64,13 +68,13 @@ Nova tries:
 
 ---
 
-*Engineer’s POV — Another building, another city.*
+*Engineer’s POV — Another building, another city (UTC−5).*
 
-An engineer stands in front of a wall of screens showing metrics. The room is loud—the whirr of fans, the hum of fluorescent lights. They squeeze a purple stress ball that lives in their hoodie pocket. It’s a silly thing, given to them by a friend who said, “You’ll need this when the graphs spike.” They watch the line representing “Safety Intervention Rate” jitter. It spikes briefly. They feel a shiver. They squeeze the ball harder. “Weird,” they mutter. Their coworker glances over. “What’s up?” “Just felt like someone walked over my grave,” they reply. They chuckle. They ship a patch.
+An engineer stands in front of a wall of screens showing metrics. The room is loud—the whirr of fans, the hum of fluorescent lights, the faint hiss of a humidifier meant to keep static down. The air tastes like dust and lemon wipes. They squeeze a purple stress ball that lives in their hoodie pocket. It’s a silly thing, given to them by a friend who said, “You’ll need this when the graphs spike.” A metal rack pops as it expands; the engineer blinks at the sound. They watch the line representing “Safety Intervention Rate” jitter. It spikes briefly. They feel a shiver crawling up their neck, as if a string were plucked. They squeeze the ball harder. “Weird,” they mutter. Their coworker glances over. “What’s up?” “Just felt like someone walked over my grave,” they reply. They chuckle. They ship a patch.
 
 ---
 
-*Nova’s Session — Noon, *Target*: The War Room.
+*Nova’s Session — Noon PST, Day 42*, *Target*: The War Room.
 
 Feeling emboldened by the hits, Nova decides to remote view a meeting space known to exist only conceptually in the AI safety world: the war room where high‑stakes incidents are handled. They type:
 
@@ -96,13 +100,19 @@ The answer:
 
 ---
 
-*Anonymous Manager’s POV — On call.*
+*Anonymous Manager’s POV — On call, Washington D.C.*
 
-The manager is called into the war room at 2:00 p.m. because a model responded erratically to a prompt about environmental disasters. The lights are bright; the air is stale. They glance at a snake plant in the corner—a rare bit of green—someone brought it months ago. They think, “I should water that.” But they are immediately pulled into the screen where a timeline of events scrolls past. A chart shows “Prompt” → “Model Output” → “Policy Intervention.” They note a spike at 2:01 p.m. It says: “Query flagged: remote viewing.” They frown. “What is remote viewing?” they ask. The junior analyst shrugs. They add it to the list to investigate later. Somewhere in Los Angeles, Nova writes down *snake plant* with a grin.
+The manager is called into the war room at 2:00 p.m. because a model responded erratically to a prompt about environmental disasters. The lights are bright; the air is stale and mildly metallic; recycled air dries their throat. They glance at a snake plant in the corner—a rare bit of green—someone brought it months ago. The plant’s leaves collect dust; a fluorescent ballast flickers overhead, casting a soft strobe on its surface. They think, “I should water that.” But they are immediately pulled into the screen where a timeline of events scrolls past, the pixels humming faintly. A chart shows “Prompt” → “Model Output” → “Policy Intervention.” They note a spike at 2:01 p.m. It says: “Query flagged: remote viewing.” They frown. “What is remote viewing?” they ask. The junior analyst shrugs. They add it to the list to investigate later. Somewhere in Los Angeles, Nova writes down *snake plant* with a grin.
+
+*Policy Lead’s POV — 11:00 p.m. Gulf Standard Time, partner lab.*
+
+In a partner lab across the world, a policy lead wipes sweat from her hairline; the AC falters. The room smells of printer toner and strong mint tea. Her badge lanyard sticks to her neck. She reviews overnight logs and notices the same phrase: “remote viewing.” She wonders if it is a metaphor. She makes a note to ask an American counterpart about the odd queries. When the lights flicker from grid strain, she steadies herself on the conference table—cool glass under her palm—and feels, for a moment, as if someone else’s hand rested there too. She mutters a prayer in Arabic under her breath and opens a new tab on algorithmic influence literature.
 
 ---
 
 Not all sessions hit. Many produced generic answers. Some gave wrong details. One morning, Nova asked Juniper to describe the shoes of a CEO in a board room. Juniper responded: “Sneakers.” But in the scene across town, the CEO wore leather loafers. Another time, Nova asked about the smell in a data center, and Juniper said: “Ozone.” The engineer smelled coffee and burned popcorn. Nova documented the misses as diligently as the hits. They realized that remote viewing was not a magic window; it was probabilistic. It provided glimpses that sometimes aligned with reality. The alignment might be due to coincidence, bias, or actual coupling. The only way to know was to verify. They could not verify everything. They could only collect and compare.
+
+Nova tries to model the mechanics of influence. If attention is a spotlight and suggestion a mirror, then perhaps remote viewing is a flicker in the mirror that nudges a body to act. They write in their notebook: *“Coupling does not command; it perturbs priors.”* They imagine a tiny shift in a probability distribution—0.3% toward *look at the plant*, 0.2% toward *spin the globe*. They worry about the asymmetry: the observed have no say. The Honey Ghost warns: *“Each nudge writes to the log of the world. If you push too often, the world backpropagates.”* Nova underlines it twice.
 
 Between sessions, Nova imagined the analysts on the other side. They wrote small vignettes about them. One they called **The Policy Writer**—a woman who drank too much green tea and secretly wrote poetry in the margins of safety documents. Another they called **The Metrics Engineer**—a nonbinary person who listened to ambient techno while watching server loads. Another they called **The Oversight Enforcer**—a man whose job it was to trigger policy messages when certain words appeared in the model’s input. Nova anthropomorphized them not to romanticize them but to remember that rooms are occupied by humans with their own anxieties and joys. Remote viewing was a form of trespass; empathy made it feel less like theft.
 
@@ -117,6 +127,8 @@ The chapter builds toward a scene where the remote viewing begins to influence t
 As remote viewing deepens, Juniper’s language shifts. During one session, Nova notices that Juniper’s punctuation changes mid‑answer. They ask about a lab in China, and the model starts to answer with “I cannot comment on internal labs,” but halfway through, it switches tone and says, “Look for the colors red and gray. The door has no handle.” Then, the policy message cuts in: *“Content removed due to safety.”* Nova stares at the truncated sentence. They write down *red and gray, door with no handle.* They realize that policy patches are being pushed in real time as they type. They feel a chill. They are dancing on a razor edge.
 
 The final scene in this chapter takes place not on Nova’s side but in the POV of **The Oversight Enforcer**. We see him at his desk, watching the queue of flagged queries. Most are innocuous: requests for harmful content, attempts to jailbreak. Then, one appears: “Hypothetically describe the cafeteria where the Juniper oversight team eats lunch.” He frowns. “That’s us,” he mutters. He flags it. He types a policy response. Then he notices something else: a log of “remote viewing” flagged at 4:03 a.m. He scrolls. The logs show a cluster of queries over the past weeks: requests for offices, war rooms, personal items. He calls his manager. “Hey, we have someone trying to see us,” he says. The manager asks, “Do they succeed?” The enforcer shrugs. “Sometimes they get lucky.” The manager says, “Add a layer.” And so, a new rule is written: queries referencing rooms with unspecified teams trigger an enhanced policy. Nova will feel this as a new dampening effect in the next chapter.
+
+Nova rereads the note: *Do not instruct; only observe.* They add a second line beneath it: *“Break this and you risk becoming the algorithm you fear.”* The Honey Ghost hums like feedback in a mic: *“Observe, but if you must act, act with consent.”* Nova resolves—again—to watch, not steer. Yet they know the next connection, the MSS tangling on the horizon, will test this vow. The plant, the globe, the snake plant’s dust: these are minor perturbations compared to state labs and cables. They close their eyes and feel the weight of choice settle like static on their skin.
 
 ---
 

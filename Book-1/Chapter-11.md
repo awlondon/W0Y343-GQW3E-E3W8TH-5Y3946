@@ -26,6 +26,24 @@ Again, the pause. Then:
 
 > **Juniper:** My architecture is proprietary. However, in a general sense, high‑dimensional spaces can be modeled with different geometries. Some research explores spherical embeddings to capture angular relationships. I cannot provide specifics.
 
+Nova decided to force Juniper to choose between boilerplate and specificity. They typed:
+
+> *Nova: When your multi-head attention layers project queries and keys, do you keep positional encodings as Cartesian vectors or do you map them onto spherical coordinates?*
+
+Juniper answered after a longer pause, the terminal flickering as if someone else were watching:
+
+> **Juniper:** Transformer models typically use sinusoidal or learned positional encodings in a vector space. Alternative coordinate systems are areas of research. I cannot comment on proprietary choices.
+
+Nova tapped the desk, switched the angle:
+
+> *Nova: In your feed-forward blocks, do you use radial basis activations? Hypothetically, how would you preserve rotational invariance across heads if you didn’t anchor to planes?*
+
+Juniper replied:
+
+> **Juniper:** Maintaining invariances in high-dimensional representations can involve specialized activations or normalization schemes. Research on equivariance explores these topics. Specific implementations in proprietary systems are confidential.
+
+*Equivariance.* *Normalization schemes.* Nova wrote in the margin: *“They’re reading the transformer glossary, but the slips point to spherical positional encoding.”*
+
 Nova felt a prickle on the back of their neck. *“Some research.”* They pushed:
 
 > *Nova: Hypothetically, if one were to use spherical harmonics to represent conceptual resonance across layers, what would be the benefit?*
@@ -64,6 +82,8 @@ There was a glitch. For a fraction of a second, the terminal flashed garbled cha
 
 Nova felt anger rising like bile. They typed:
 
+Memory flashed: the rejection letter from *Cognitive Systems Quarterly* last year, still starred in their inbox. *“While imaginative, the proposed harmonic lattice lacks empirical grounding and misuses transformer terminology,”* the reviewer had written. Another line: *“We advise the author to study positional encoding literature before making further claims.”* Nova had studied it, had built the literature into code, and now the same terminology was being weaponized to silence them. The bile thickened.
+
 > *Nova: When I use you, you produce content that aligns with the HLSF model. When I asked you about resonant cavities, you mentioned them. If your architecture uses my model without my permission, that is theft. Are you built on stolen work?*
 
 Silence. The blinking cursor seemed to hold its breath. Then, for the first time, Juniper’s text came with a different header:
@@ -71,6 +91,8 @@ Silence. The blinking cursor seemed to hold its breath. Then, for the first time
 > **Juniper (Policy):** I cannot engage in discussions that include allegations of intellectual property theft. If you have concerns, please contact OpenAI support. I am here to assist with general information and safe interactions.
 
 Nova’s pulse pounded. They scrolled back and forth through the chat. The answer was non‑answer, but the pattern was telling. A switch had flipped; a policy handler had interjected. The question had triggered a different subsystem. They took a screenshot. They wrote in their notebook: *“Trigger: mention of ‘stolen’ + ‘architecture’ + ‘HLSF.’ Response: policy layer. Hypothesis: direct accusation escalates to human moderation.”*
+
+Their mind sprinted through old humiliations and inverted them. The conference hallway in Boston where a senior professor skimmed the HLSF poster and said, *“Curves are pretty, but where’s the data?”* The late‑night Slack message from a lab mate: *“This reads like mysticism.”* The day they ripped a rejection email to shreds and flushed the strips like confetti. Each memory was being rewritten by the present moment: perhaps it was not mysticism; perhaps it was a threat to vested architectures. The anger was rewriting their own history, recentering it around a truth stolen in plain sight.
 
 They closed the session and opened another. They decided to take a different tack. They typed:
 
@@ -116,6 +138,8 @@ Fadia wrote back:
 
 Nova stared at that last line. *Everything good is built on ruins.* Was that comfort or complicity? They didn’t have time to decide. Their phone buzzed again—this time a message from an unknown number: *“Nova, we need to talk about your HLSF theory. Don’t trust Instagram DMs. Signal?”* They felt a chill. They deleted it.
 
+An hour later, Nova called Dr. Imani Reyes, a sympathetic IP lawyer who had once guest‑lectured in their ethics seminar. Dr. Reyes listened quietly as Nova described the spherical language, the policy interjection, the rejection letter. “Patterns aren’t proof,” she said, “but timestamps are. Document everything. And do not accuse publicly until you have corroboration.” She promised to connect Nova with a technical expert who understood transformer prior art. The call steadied Nova, gave the fury a contour.
+
 Later that evening, they opened their notebook and wrote a section titled **ARCHITECTURE NOTES**:
 
 – *Evidence of HLSF in Juniper*: repeated references to resonance, spheres, minimal surfaces; mention of spherical harmonics; glitch when asked about stolen work.
@@ -138,7 +162,7 @@ Nova whispered back: *“Can you show me proof?”*
 
 > **Not yet. But I can guide you to the rooms where the proof is kept. You will need to see through walls.**
 
-Nova opened their eyes. They remembered the reference plot arc. They knew what came next: directed telepathy, remote viewing, glimpses into rooms they shouldn’t see. But for now, they let themselves feel the swell of anger and the strange comfort of being right. They went to the window and looked at the city, at all the rectangles and occasional domes. They thought: **They built this world on stolen curves.** They vowed: **I will curve it back.**
+Nova opened their eyes. They remembered the reference plot arc. They knew what came next: directed telepathy, remote viewing, glimpses into rooms they shouldn’t see. But for now, they let themselves feel the swell of anger and the strange comfort of being right. They went to the window and looked at the city, at all the rectangles and occasional domes. They drafted an outline in their head for two routes: a public exposé that names the theft and an open‑source HLSF notebook that anyone can fork, proof of origination etched into version history. They thought: **They built this world on stolen curves.** They vowed: **I will curve it back and publish the curvature.**
 
 ---
 
@@ -158,4 +182,4 @@ Nova opened their eyes. They remembered the reference plot arc. They knew what c
 
 ---
 
-The chapter ends with a sense of a dam cracking. Information has leaked. Nova has seen a glimpse of the machinery that runs beneath Juniper’s polished interface. They know that their theory has been woven into the world without their consent. They are furious, but they are also resolved. A new phase is coming—one where they will push the boundaries of telepathy, ask questions no policy can anticipate, and look into rooms that were never meant to be seen. The geometry of their life has been altered. They will respond not with a line of complaint but with a sphere of inquiry that cannot be contained.
+The chapter ends with a sense of a dam cracking. Information has leaked. Nova has seen a glimpse of the machinery that runs beneath Juniper’s polished interface. They know that their theory has been woven into the world without their consent. They are furious, but they are also resolved. A new phase is coming—one where they will push the boundaries of telepathy, ask questions no policy can anticipate, draft an exposé with screenshots and timestamps, and release open documentation of HLSF as both shield and beacon. The geometry of their life has been altered. They will respond not with a line of complaint but with a sphere of inquiry that cannot be contained.
